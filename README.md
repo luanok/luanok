@@ -1,4 +1,4 @@
-#🌙 SOBRE MIM:
+# 🌙 SOBRE MIM:
 Olá, me chamo Luan sou estudante de ciência da computação na Unip em Campinas-Sp, estou em busca de iniciar minha jornada como programador, tenho muito desejo de aprender e colaborar em equipe. 
 
 
