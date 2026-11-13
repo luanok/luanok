@@ -1,5 +1,5 @@
 # 🌙 SOBRE MIM:
-Olá, me chamo Luan sou estudante de ciência da computação na Unip em Campinas-Sp, estou em busca de iniciar minha jornada como programador, tenho muito desejo de aprender e colaborar em equipe. 
+Olá, me chamo Luan sou estudante de ciência da computação na Unip em Campinas-Sp e Técnico em eletronica pela etec Bento Quirino, estou em busca de iniciar minha jornada como programador, tenho muito desejo de aprender e colaborar em equipe. 
 
 
 # 💻 TEC:
