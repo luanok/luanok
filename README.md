@@ -1,10 +1,10 @@
-# 💫 About Me:
+#🌙 SOBRE MIM:
 Olá, me chamo Luan sou estudante de ciência da computação na Unip em Campinas-Sp, estou em busca de iniciar minha jornada como programador, tenho muito desejo de aprender e colaborar em equipe. 
 
 
-# 💻 Tech Stack:
+# 💻 TEC:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GITHUB STATUS:
 ![](https://github-readme-stats.shion.dev/api?username=luanok&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=luanok&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luanok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
